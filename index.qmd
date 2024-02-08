@@ -8,4 +8,6 @@ Rendez-vous quand j'aurais un peu plus de temps pour valoriser mes expériences.
 
 Test de lien vers une autre page : [lien direct](test_1.qmd)
 
+Test de lien vers un pdf ?! [lien direct](test_1.pdf)
+
 Lien vers mon modeste github : [https://github.com/baptyzern/wildeR](https://github.com/baptyzern/wildeR)
