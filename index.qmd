@@ -1,13 +1,11 @@
 ---
-title: "baptyzern.github.io"
+title: "gaRs peRdu"
 ---
 
-This is a Quarto website.
+En pleine phase de test pour voir comment ça marche...
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Rendez-vous quand j'aurais un peu plus de temps pour valoriser mes expériences.
 
-```{r}
-1 + 1
-```
+Test de lien vers une autre page : [lien direct](test_1.qmd)
 
-dédicace à mes collègues de qesstionnaire : [lien direct](test_1.qmd)
+Lien vers mon modeste github : [https://github.com/baptyzern/wildeR](https://github.com/baptyzern/wildeR)
