@@ -1,0 +1,16 @@
+{
+  "hash": "6386875a0235039669f763d1dc964731",
+  "result": {
+    "markdown": "---\nauthor: Baptiste Yzern\ntitle: Etudiant de M2\nformat:\n  classic-cv-pdf: default\ncvfooter:\n  left: \"baptyzern.github.io\"\n  right: \"github.com/baptyzern\"\ncvcolor: 58748F #without `#`\ncvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa\ncvmeta:\n  - title: Statut\n    left: Etudiant en M2 QESS (ENS-EHESS)\n    right: mailto:baptiste.yzern@ens-lyon.fr\n  - title: Champ\n    left: Méthodes quantitatives en sciences sociales\n    right: +33.7.50.25.94.45\nexecute:\n  echo: false\n---\n\n::: {.cell}\n\n:::\n\n\n\n# Présentation\n\nEtudiant en M2 QESS (EHESS - ENS Ulm), je suis particulièrement intéressé par les méthodes quantitatives en sciences sociales et plus généralement par les (modèles) statistiques.\n\nMes travaux portent sur une diversité de sujets mais je planche actuellement sur les personnes inactives en Europe, avec comme objectif de réfléchir à la manière dont on peut les intégrer à une structure sociale pensée *a priori* pour les personnes en emploi. \n\nPar le passé, j'ai pu travaillé en sociologie de la culture (sur la plateforme Twitch) mais aussi en sociologie des émotions (sur le *crush* et son utilisation par les \"jeunes\"). \n\n# Experience professionnelle\n\n\n\n\\cvevent{Mar. 2022 - Present}{Team Lead}{GESIS - Leibniz Institute for the Social Sciences}{{Coordination of a project to build an Open Science platform with reusable code and tutorials},{Research on Open Science Practices},{Implementation of tools to enhance reproducibility and facilitate research with digital data in R}}\n\\cvevent{Sep. 2018 - Feb. 2022}{Presidential Fellow}{University of Manchester}{{Research on Disinformation on Social Media},{Analyses of large scale and unstructured data sets with R, Python and Bash}}\n\\cvevent{Nov. 2017 - Aug. 2018}{Post Doctoral Researcher}{ETH Zurich}{{Developing new methods to analyze social networks},{Implementing methods in libraries},{Gathering and analyzing large datsets from Social Media APIs}}\n\n\n\n# Education\n\n\n\n\\cvevent{Oct. 2023 - Sep. 2024}{M2 Sciences sociales, Quantifier en sciences sociales}{EHESS - ENS Ulm}{{Thesis: A Positional Approach for Network Centrality},{Developed and implemented new methods to assess network centrality}}\n\\cvevent{Sep. 2022 - Sep. 2023}{M1 Sciences sociales, Socialisations, savoirs, institutions}{ENS de Lyon}{{Thesis: Modularity Maximization},{Implementation and comparison of different clustering algorithms using Matlab}}\n\\cvevent{Sep. 2021 - Aug. 2022}{Pré-master de sociologie}{ENS de Lyon}{{Normalien étudiant},{Implementation and comparison of different clustering algorithms using Matlab}}\n\\cvevent{Sep. 2018 - Jul. 2021}{CPGE B/L - Lettres et sciences sociales}{Lycée Michel Montaigne de Bordeaux}{{Préparation aux concours des ENS et de l'ENSAE},{En 2021, sous-admissible aux trois ENS et admis 13e au concours de l'ENSAE}}\n\\cvevent{Sep. 2021 - Aug. 2022}{Pré-master de sociologie}{ENS de Lyon}{{Thesis: Modularity Maximization},{Implementation and comparison of different clustering algorithms using Matlab}}\n",
+    "supporting": [
+      "cv_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
