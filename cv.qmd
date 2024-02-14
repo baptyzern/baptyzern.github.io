@@ -59,7 +59,7 @@ tibble::tribble(
     c("Mémoire : La position sociale des personnes inactives en Europe, sous la direction d'Etienne Pénissat",
       "Formation poussée sur les principes de l'enquête quantitative en sciences sociales",
       "Cours de méthodes quantitatives avancées : méthodes d'analyse spatiale, régressions avancées, web scraping et analyse textuelle",
-      "Ateliers d'enquête : enquête ParTâches par questionnaire (traitement des résultats, élaboration d'une documentation, écriture d'un article), enquête sur les serveur·euses (migrant·es) dans les établissements de luxe à Paris en contact avec une clientèle internationalisée et riche"),
+      "Ateliers d'enquête : enquête ParTâches par questionnaire (traitement des résultats, élaboration d'une documentation, écriture d'un article), enquête sur les classes sociales en Europe"),
     
     "M1 Sciences sociales - Socialisations, savoirs, institutions", "ENS de Lyon", "Lyon, France", "Sep. 2022 - Sep. 2023",
     c("Formation poussée sur les principes de l'enquête qualitative en sciences sociales",
